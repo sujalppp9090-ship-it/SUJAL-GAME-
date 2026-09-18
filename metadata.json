@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Rush 3D: Subway City Runner",
+  "description": "A vibrant 3D mobile endless runner game featuring a high-speed sports car navigating busy 3-lane city streets, dodging auto-rickshaws, buses, and road barriers while collecting coins and nitro power-ups in a stylized cartoon world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
